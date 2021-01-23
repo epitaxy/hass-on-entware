@@ -13,3 +13,5 @@ In the remote shell, execute
 After that run
 
 #hass --daemon
+
+Voila!
