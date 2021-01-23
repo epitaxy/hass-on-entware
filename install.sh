@@ -19,6 +19,6 @@ wget -qO- http://bin.entware.net/armv7sf-k3.2/include/include.tar.gz | tar xvz -
 ln -s /opt/lib/libffi.so.7 /opt/lib/libffi.so.6
 ln -s /opt/lib/libffi.so.6 /opt/lib/libffi.so
 
-pip3 install --upgrade wheels
+pip3 install --upgrade wheel
 pip3 install --upgrade homeassistant
 
