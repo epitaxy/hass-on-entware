@@ -6,7 +6,7 @@
 
 opkg update 
 opkg upgrade
-opkg install python3-dev python3-cffi python3-lxml python3-pillow libjpeg-turbo 
+opkg install python3-dev python3-cffi python3-lxml python3-pillow libjpeg-turbo libxslt libxml2-dev
 opkg install gcc busybox ldd make gawk sed coreutils-install diffutils libcryptoxx python3-cryptodome
 
 # install requirements for python module compile
