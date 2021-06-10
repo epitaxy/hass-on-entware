@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This is essential procedures for installation of hass on entware (AC68U:armv7)
+# This is essential procedures for the installation of hass on entware (AC68U:armv7)
 # script by JYH (23 Jan. 2021)
 # This script was tested on ASUS AC68U router with merlin firmware (v384.19)
 
